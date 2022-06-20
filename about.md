@@ -22,53 +22,29 @@ titles:
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
+  tr      : &TR       Hakkında
   # @end locale config
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+Yazmak zihni akort etmektir, der Francis Bacon.
+Benim zihnim ise şu ünlü [flütle çalınan Titanik](https://youtu.be/X2WH8mHJnhM?t=18) videosundaki sesten hallice. Evet zihnim. Tam bir sirk. Jordan Peterson "clean up your room" diyor ya, ben de işte buna binaen yaşamım boyunca hapis kalacağım odam olan zihnimi şöyle bir temizlemek, var olan clutter'ı bir toparlamak, ve hatta gereksiz fragment'ları yok etmek niyetiyle bu siteyi açtım.
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+## Neden Katartik Çaydanlık?
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+Ben hali hazırda sıkı bir çay person'ım. Düşünsel süreçlerimin zihnimde demlendiği, ve o katı çay parçaların içindeki özütün çıkıp berrak bir çaya dönüşmesi ile resmettiğim bu alegori, nihayetinde bana mental ağırlıklarımdan bir arınma sağlayacağından bu ismi uygun gördüm.
 
-## Features
+## Bu Sitenin Varoluş Gayesi Hakkında
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+Biliyorsunuz ki zekayı artık ikiye ayırıyorlar: (1) Fluid (akışkan), (2) Crystallized (kristalize) zeka.
+Fluid zeka sizin anlık tepkileriniz, hızlı bağ kurma yetiniz, problem çözme yeteneğiniz ve benzerini kapsarken Kristalize zeka hali hazırda daha önce öğrenmiş olduğunuz bilgileri hatırlama (recall)'daki hızınızı ve gücünüzü temsil ediyor. Ben senelerdir kristalize tarafıma yüklenip habire elektrikli süpürge gibi, sünger gibi bilgi çekiyorum etraftan. Fakat bu bilgileri nasıl process ediyorum, zamanla mental yetilerimde bir yavaşlama başlıyor mu, veya bilgileri işleme kalitemi nasıl artırabilirim gibi hususlara pek kafa yormuyorum. Sünger gibi çektiğim bilgileri genellikle bir yere not da etmiyorum. Bu yüzden bunların çoğu ya yok olup hyperspace'e gidiyor, ya da bu bilgilerden yeri geldiğinde çok küçük ve anlamsız parçaları recall edebiliyorum ve bu anlamsız ve gereksiz oluyor. "Yaa böyle bir şey vardı da şimdi tam hatırlamıyorum Google'dan bakayım sana link atarım daha sonra :))" diye muhabbeti kapatıyorum.
 
-## Skins
+Artık bu zihin çorbası öyle bir hal aldı ki, birçok konuda neyi savunduğumu, neye karşı çıktığımı bilemez hale geldim. Örneğin sokaktaki başıboş köpekler sorunu hakkında ne düşünüyorum, ya da agnostisizm ne kadar mantıklı, ya da ekonomik liberalizmi ne derece savunuyorum, ya da postmodern felsefeyi mi yoksa kıta felsefesini mi daha çok seviyorum? Bu soruların cevapları hakkında bu postu yazarken fragment'lar halinde bir sürü bilgi zihnimde dolanırken bunları düzgün ve tutarlı bir narrative halinde insanlara sunmak için saatlerce düşünmem gerekli.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+Yani kısacası, hayatta doğru ve yanlış bulduğum fikirler ve inançlar için argümanlarımı ortaya koymaya, bu sayede hem kendime karşı dürüst olmaya, hem de bu fragment'ları birleştirmeye gereksinim duyuyorum.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+İşte bu web sitesi bu amaçla var oldu.
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+Başkası için değil, kendim için yazıyorum. Karşıma aldığım argümanları mümkün olduğunda straw man değil steel man yaparak savunmaya çalışacağım. Sizden gelen yorumlar her zaman başımın üstüne.
 
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+Keyifli okumalar.
