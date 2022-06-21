@@ -1,9 +1,19 @@
 ---
+layout: article
 title: Ölüm Hakkında
-tags: stoic spiritual
+article_header:
+type: overlay
+theme: dark
+background_color: '#203028'
+background_image:
+gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+src: /assets/images/posts/death-related.jpg
+tags: stoic spiritual stance
 ---
 
-> İnsan öleceğini bile bile nasıl yaşar? Ya çıldırır, ya da öleceğini unutur. -- Nazım Hikmet
+Yazıma çok sevdiğim Nazım Hikmet'in şu satırlarıyla başlamak istiyorum...
+
+> İnsan öleceğini bile bile nasıl yaşar? Ya çıldırır, ya da öleceğini unutur.
 
 
 İnsan düşünen hayvandır, insan konuşan hayvandır, insan toplumsal hayvandır. Filozoflar asırlar boyu insanı diğer canlılardan ayıran bir özelliğiyle onu öne çıkardılar. Bana sorarsanız insan, öleceğini bilen hayvandır.
