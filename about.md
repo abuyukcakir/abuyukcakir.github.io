@@ -28,7 +28,7 @@ key: page-about
 ---
 
 Yazmak zihni akort etmektir, der Francis Bacon.
-Benim zihnim ise şu ünlü [flütle çalınan Titanik](https://youtu.be/X2WH8mHJnhM?t=18) videosundaki sesten hallice. Evet zihnim. Tam bir sirk. Jordan Peterson "clean up your room" diyor ya, ben de işte buna binaen yaşamım boyunca hapis kalacağım odam olan zihnimi şöyle bir temizlemek, var olan clutter'ı bir toparlamak, ve hatta gereksiz fragment'ları yok etmek niyetiyle bu siteyi açtım.
+Benim zihnim ise şu ünlü [flütle çalınan Titanik](https://youtu.be/X2WH8mHJnhM?t=18) videosundaki sesten hallice. Tam bir sirk anlayacağınız. Jordan Peterson "clean up your room" diyor ya, ben de işte buna binaen yaşamım boyunca hapis kalacağım odam olan zihnimi şöyle bir temizlemek, var olan clutter'ı bir toparlamak, ve hatta gereksiz fragment'ları yok etmek niyetiyle bu siteyi açtım.
 
 ## Neden Katartik Çaydanlık?
 
@@ -45,6 +45,12 @@ Yani kısacası, hayatta doğru ve yanlış bulduğum fikirler ve inançlar içi
 
 İşte bu web sitesi bu amaçla var oldu.
 
-Başkası için değil, kendim için yazıyorum. Karşıma aldığım argümanları mümkün olduğunda straw man değil steel man yaparak savunmaya çalışacağım. Sizden gelen yorumlar her zaman başımın üstüne.
+## Yazıların Formatı
+
+Bu yazıları başkası için değil, kendim için yazıyorum. Karşıma aldığım argümanları mümkün olduğunda straw man değil steel man yaparak savunmaya çalışacağım. Muntazam yazılar yazayım, giriş gelişme ve sonuç'tan meydana gelsinler, anlatacaklarımı tutarlı bir narrative içinde anlatayım gibi dertler ikinci planda olacak. Öncelikle zihnimdekileri etraflıca dökebilmeye odaklanacağım. Bu sebeple zaman zaman off-topic olacağımı öngörüyorum.
+
+Bir başka husus şu ki, sitede yazdığım yazıların "yazıldı bitti" olmasını istemiyorum. Mümkünse tüm yazılarımı birbirlerine referans verecek şekilde genişletmeyi, böylece zihnimdeki ağları yazılarım arasında da örmeyi istiyorum.
+
+Bu sebeple yayınlanmış yazıların içinde bir sürü "devam edecek" veya "doldurulacak" ibareleri bulacaksınız. Takdir edersiniz ki zihnimdeki tüm bilgiyi bir yazıya dump edip o yazıyı tamamlamam mümkün değil. Bu yüzden sitedeki yazıları daha ziyade benim zihnimin bir fihristi gibi görmeniz daha sağlıklı olacaktır.
 
 Keyifli okumalar.
