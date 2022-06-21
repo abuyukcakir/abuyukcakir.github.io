@@ -13,19 +13,19 @@
 
 ### Yazılacaklar
 
-[] Ahlak anlayışım
-[] Palmistry, hem nedir ne değildir meselesi, hem de nasıl öğrendim ve uyguladım
-[] Palmistry'nin gezegen bağlantıları ve arkaplanındaki astroloji temaları.
-[] Türkiye'de ruhçuluk, reenkarnasyon, Ruhselman ekolü vs
-[] Ehl-i sünnet vs hadisten pek haz etmeyen taraf, ve ben bu konuda ne düşünüyorum?
-[] Kişisel finans -- Youtube'da çekeceğim videoya refer edecek şekilde.
-[] Evrimsel psikoloji ile yoğrulmuş, insan ilişkilerine dair bir yazı
-[]
+- [ ] Ahlak anlayışım
+- [ ] Palmistry, hem nedir ne değildir meselesi, hem de nasıl öğrendim ve uyguladım
+- [ ] Palmistry'nin gezegen bağlantıları ve arkaplanındaki astroloji temaları.
+- [ ] Türkiye'de ruhçuluk, reenkarnasyon, Ruhselman ekolü vs
+- [ ] Ehl-i sünnet vs hadisten pek haz etmeyen taraf, ve ben bu konuda ne düşünüyorum?
+- [ ] Kişisel finans -- Youtube'da çekeceğim videoya refer edecek şekilde.
+- [ ] Evrimsel psikoloji ile yoğrulmuş, insan ilişkilerine dair bir yazı
+- [ ]
 
 ### Genişletilecekler
 
-[] Ölüm hakkında -- ölümle barışmak
-[] İnanç hakkında -- İnancımın temelleri.
-[]
+- [ ] Ölüm hakkında -- ölümle barışmak
+- [ ] İnanç hakkında -- İnancımın temelleri.
+- [ ]
 
 TeXt Theme is [MIT licensed](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE).
