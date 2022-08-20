@@ -75,4 +75,4 @@ header:
       fr-LU: *FR
       tr: &TR       Yazar Hakkında
       # @end locale config
-    url: /about_author.html
+    url: /about-author.html
