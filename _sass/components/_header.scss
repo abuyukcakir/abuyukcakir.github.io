@@ -80,6 +80,12 @@
       font-size: map-get($base, font-size-h4-small);
     }
   }
+  & > a > svg {
+    width: map-get($base, font-size-h4) * 15;
+    height: map-get($base, font-size-h4) * 15;
+    margin-right: map-get($spacers, 3);
+    vertical-align: middle;
+  }
 }
 
 .navigation {
