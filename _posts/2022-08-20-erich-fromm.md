@@ -11,7 +11,7 @@ article_header:
 tags: books
 ---
 
-Erich Fromm'u bir iki ay önce okumaya başladım. Malumunuz, Sevme Sanatı isimli kitabı nispeten popüler. Ben Erich Fromm'u tanımıyordum. Nasıl biridir, neden bahsetmektedir, hayata bakış açısı nasıldır bilmiyordum. Ben de onu okumaya Sevme Sanatı'ndan başladım ve daha ilk dakikadan hook'landım.
+Erich Fromm'u bir iki ay önce okumaya başladım. Malumunuz, Sevme Sanatı isimli kitabı nispeten popüler. Ben Erich Fromm'u tanımıyordum. Nasıl biridir, neden bahsetmektedir, hayata bakış açısı nasıldır bilmiyordum. Ben de onu okumaya Sevme Sanatı'ndan başladım ve daha ilk dakikadan beni kendisine çekip .
 
 <!--more-->
 
@@ -21,13 +21,15 @@ Erich Fromm, bir psikolog ve psikanalist. Aynı zamanda bir WW2 sonrası filozof
 
 Fromm belki Frankl kadar derin ve korkunç acılar yaşamadı. Fakat WW2 üzerine çok düşünmüş olmalı. İnsanda var olan nasıl bir psikopatoloji böylesine çılgın bir kıyıma yol açabilir? Bu toplu hezeyanın kaynağı nedir? Ve tabii insan ruhunun derinlerindeki bu sorun nasıl çözülür? Zaten Freud ve Jung'a son derece hakim. İnsan psyche'sine de. Bu sorular sizin de aklınızı kurcalıyorsa, buna ek olarak benim düşündüğüm, konuştuğum konular üzerine düşünen konuşan bir kişi iseniz Erich Fromm'u size şiddetle tavsiye ederim.
 
+## Sahip Olmak veya Olmak Üzerine - Nekrofili ve Biofili
+
+Fromm'un sahip olmak vs olmak (to have or to be) diye ayırdığı iki varoluşsal biçim, Fromm'un düşüncelerinin temelini oluşturuyor.
+
 ## Sevgi Üzerine - Bir Eylem olarak Sevmek
 
 TO BE CONTINUED
 
-## Sahip Olmak veya Olmak Üzerine - Nekrofili ve Biofili
 
-TO BE CONTINUED
 
 
 ****
