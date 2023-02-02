@@ -49,7 +49,8 @@ Belki siteyi doldurmaya devam ettikçe bu kitapların bazısına özel detaylı 
 7. Secret Teaching of All Ages - Manly P. Hall
 8. Gödel Escher Back - Douglas Hofstadter
 9. The Emperor's New Mind - Roger Penrose
-10. Kuran - Allah'u Teala
+10. The Book of Five Rings - Miyamoyo Musashi
+11. Kuran - Allah'u Teala
 
 ----
 
