@@ -28,26 +28,3 @@ Fromm'un sahip olmak vs olmak (to have or to be) diye ayırdığı iki varoluşs
 ## Sevgi Üzerine - Bir Eylem olarak Sevmek
 
 TO BE CONTINUED
-
-
-
-
-****
-
-Fromm'un beğendiğim pasajlardan birkaçını aşağıya tarihe geçmesi adına not ediyorum. Belki birileri bir gün okur da içlerinde bir yerde bir şeyler uyanır.
-
-Kaynaklarım, Say Yayınları'ndan çıkmış Erich Fromm serisi. Akıcı ve kaliteli çeviriler. Tavsiye olunur.
-
-### Sevme Sanatı
-
-### Rüyalar Masallar Mitler
-
-### Psikanaliz ve Din
-
-### İnsan Olmak Üzerine
-
-### Sahip Olmak ya da Olmak
-
-### Olma Sanatı
-
-### Dinleme Sanatı
