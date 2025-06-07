@@ -17,8 +17,6 @@ Odaklanmak, devrimci bir eylemdir.
 
 <!--more-->
 
-# Odaklanmak
-
 Devrimler kanlı olur. Başta odaklanmak da zordur. Fakat Mihaly Csikszentmihalyi'nin Flow state olarak adlandırdığı o mental state'e girdiğinizde, _devrimsel anlamda_ Sefiller müzikalinin şu ünlü [Red and Black](https://www.youtube.com/watch?v=cjp-Gyo5tNM)'ini söyler gibi bulursunuz kendinizi.
 
 Fromm'a göre insan odaklanmaktan kaçar, çünkü kendisini kaybetmekten korkar. Fakat derinine indiğimizde odaklanmak, Fromm'un "olmak" sınıfında değerlendirdiği, yani aktif, etken bir fiildir. Nasıl ki Frommcu bağlamda "sahip olmak" fiilleri nekrofili ve pasiflik getiriyorsa, bir "olmak" fiili olan odaklanma biofili ve canlılık getirir.

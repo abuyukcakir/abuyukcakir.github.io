@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Uyanık ve Yarı Uykuda
+title: Uyanık ve Yarı Uyanık
 article_header:
   type: overlay
   theme: dark

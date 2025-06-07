@@ -18,7 +18,7 @@ Kaynaklarım, Say Yayınları'ndan çıkmış Erich Fromm serisi. Akıcı ve kal
 
 <!--more-->
 
-#### Kolektif Narsisizm
+### Kolektif Narsisizm
 
 > Kolektif narsisizm, yoksul insanın narsisizmidir. Zengin ve güçlü insanın parasıyla, gücüyle, ona güç duygusunu veren bu gerçeklik unsurlarıyla narsisizmini besleyecek yeterli gerçeği vardır. Yoksul insanın –sadece yoksulları değil ortalama insanları da kastediyorum– nesi var? Bir yerde çalışır, söyleyecek bir şeyi yoktur, rakiplerinden korkar, tüm hayatı çetin bir mücadeleyle geçer; böyle kimi etkileyebilir ki? Belki küçük oğlunu ve köpeğini ama oğlu da büyür, karısı da kendine bakmayı öğrenmiştir. Ama kolektif narsisizmi paylaştığında, bu ulusun bir üyesi olduğunu hissedebildiğinde ben en büyüğüm, diğer herkesten daha harikayım diye düşünür. Böylece bu narsist deneyime dalar ama bu, grubu kapsadığı için bu grubun tüm üyeleri arasında fikir birliği vardır. Aslında bu, sıra dışı niteliklerine olan inançlarını müştereken dile getirdiklerinde o insanları birleştirip güçlendirir. Buna milliyetçilik diyorlar, bütün savaşların altında bu var.
 > 
@@ -33,7 +33,7 @@ Kaynaklarım, Say Yayınları'ndan çıkmış Erich Fromm serisi. Akıcı ve kal
 > İnsanın kendini değiştirmesi ve gerçek bir karakter dönüşümü denebilecek şeye ulaşması aşırı zor bir iş. Aslında bu, bütün dinlerin ve çoğu felsefenin amacı olmuştur. Bu, kesinlikle Yunan felsefesinin ve bazı çağdaş felsefelerin amacıydı; Budizm’den, Hristiyanlık ya da Yahudilikten veya Spinoza’dan, Aristoteles'ten bahsediyor olmanız fark etmez. Hepsi de, insanın daha iyi, daha yüksek, daha sağlıklı, daha mutlu ve daha etkin bir yaşam tarzına dönüşmek amacıyla kendine talimatlar vermesini sağlamak için ne yapılabileceğini bulmaya çalıştılar
 
 
-#### Sorulması Gereken Soru "Neden Böyleyim" Değil, "Ben Kimim?" 
+### Sorulması Gereken Soru "Neden Böyleyim" Değil, "Ben Kimim?" 
 
 > Birçok kişi evlendikten sonra, annelerinden eşlerine gider, bu bir ikame olur ya da başka bir anne figürü veya otorite figürü seçerler. Bu bağlılıklarda insanlar bağımlı hissedecekleri bir figür ihtiyacını karşılarlar, politikanın yürümesini sağlayan budur. Tek yapmadıkları, kendilerini bağımsızlaştırmaktır; sadece bağımlılıklarını değiştirirler. Bu büyük bir sorun, sadece Freudcu terapide değil tüm analitik terapilerde bulunan bir sorundur.
 > 

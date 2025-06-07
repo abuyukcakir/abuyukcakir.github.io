@@ -15,7 +15,7 @@ Erich Fromm'un Psikanaliz ve Zen Budizm kitabını okurken işaretlediğim birka
 
 <!--more-->
 
-#### Zen Nedir?
+### Zen Nedir?
 > Zen, kişinin varlığının doğasını kavrama sanatıdır; cesaretten özgürlüğe giden yoldur; doğal enerjilerimizi serbest bırakır, delirmemizi veya sakat kalmamızı önler; mutluluk ve sevme yeteneklerimizi dışa vurmaya zorlar.
 > 
 > Zen’in nihai amacı, satori denen aydınlanma deneyimidir. Dr. Suzuki, bu derslerinde ve diğer yazılarında, verilebilecek en fazla tarifi vermiştir. Bu yorumlarda, Batılı okur ve özellikle de psikolog için özel önem taşıyan bazı yönleri vurgulamak istiyorum. Satori, anormal bir ruh hali değildir; gerçekliğin yok olduğu bir trans hali de değildir. Bazı dini tezahüratlarda görüldüğü gibi narsist bir ruh hali değildir. “Aksine son derece normal bir ruh halidir...” Jōshū’nün belirttiği gibi,
@@ -24,7 +24,7 @@ Erich Fromm'un Psikanaliz ve Zen Budizm kitabını okurken işaretlediğim birka
 > 
 > Satori’nin, Dr. Suzuki’nin yukarıda alıntılanan pasajda tasvir ettiği esenlik halinin gerçek anlamda yerine getirilmesi olduğu gayet açık. Aydınlanmayı, psikolojik terimlerle ifade etmeye çalışsaydık bunun, kişinin tamamen kendi içindeki ve dışındaki gerçekliğe döndüğü, gerçekliğin tamamen farkında olup onu tamamen kavradığı bir hal olduğunu söylerdim.
 
-#### Satori, Aydınlanma Deneyimi ve Psikanaliz
+### Satori, Aydınlanma Deneyimi ve Psikanaliz
 
 > Zen’de, satori’nin nihai ve belirleyici basamak olduğu aydınlanmanın birçok evresi vardır. Fakat anladığım kadarıyla, satori yönündeki deneyimlere, satori’ye hiç erişilmemişse bile değer verilmektedir. Dr. Suzuki bir keresinde, bu durumu şu şekilde örneklemişti: Eğer mutlak karanlık içindeki odaya bir mum getirilirse, karanlık kaybolur ve ışık vardır. Odaya on, yüz ya da bin mum daha eklenirse oda giderek aydınlanır. Fakat yine de belirleyici değişiklik, karanlığa nüfuz eden ilk mum neden olmuştur.2
 > 
