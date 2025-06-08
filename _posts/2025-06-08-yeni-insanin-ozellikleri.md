@@ -36,7 +36,7 @@ tags: books
 - Kendini tüm canlılarla bir hissetmek ve bu nedenle doğaya egemen olma, ona tecavüz etme, dengesini bozma ve onu sömürme gibi tutkularından vazgeçerek, onu anlamaya ve onunla işbirliğine girmeye istekli olmak.
 - Özgürlüğü, istediğini yapmak olarak değil, insana kendisi olabilme şansının verilmesi olarak değerlendirmek gerek. Özgürlük, sınırsız ihtirasların bir demeti biçiminde ele alınmamalıdır. Onun daha çok, gelişim ve çöküş, yaşam ve ölüm gibi ayrı kutupların ince bir sanatla dengelenmesi sonucunda oluşan bir yapı olduğunu fark etmek.
 - Kötülüğün ve yıkıcılığın, gelişimin engellenmesi sonucunda doğduğunu bilmek.
-- İnsanların ancak çok azı, bu sıralanan niteliklere ulaşarak mükemmel olmuşlardır. Ama “bu amaca erişmek” tutkusunun da, aslında amaca ulaşmayı engelleyen ihtirasın başka bir biçimi olduğunu unutmamak gerek.
-- Sürekli gelişen bir canlılık içinde mutlu bir yaşam sürmek, yani insanın elinden geldiğince bilinçli ve yoğun yaşaması öylesine doyurucudur ki, böyle yaşayan birisi için, bazı hedeflere ulaşılıp ulaşılmaması çok önemli olmaktan çıkar.
+- İnsanların ancak çok azı, bu sıralanan niteliklere ulaşarak mükemmel olmuşlardır. Ama “bu amaca erişmek” tutkusunun da, aslında amaca ulaşmayı engelleyen ihtirasın başka bir biçimi olduğunu unutmamak.
+- Sürekli gelişen bir canlılık içinde mutlu bir yaşam sürmek (yani insanın elinden geldiğince bilinçli ve yoğun yaşaması öylesine doyurucudur ki, böyle yaşayan birisi için, bazı hedeflere ulaşılıp ulaşılmaması çok önemli olmaktan çıkar).
 
 -- Erich Fromm, Sahip Olmak ya da Olmak, sf. 212-213-214
