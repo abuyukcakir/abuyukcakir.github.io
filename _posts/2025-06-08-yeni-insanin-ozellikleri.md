@@ -11,11 +11,11 @@ article_header:
 tags: books
 ---
 
-# Yeni İnsan'ın Özellikleri
-
-[...] Kurulmak istenen yeni toplumun temel görevi, karakteri aşağıdaki özellikleri taşıyan yeni insanın doğuşunu sağlamak ve desteklemektir:
+Fromm'un Yeni İnsan'ı, "sahip olmak" yerine "olmak" modalitesi ile düşünen, çalışan, ve yaşayan insandır. Kitabında bu insanın sahip olduğu / olması gereken özelliklerini aşağıdaki pasajda sıralar. 
 
 <!--more-->
+
+Kurulmak istenen yeni toplumun temel görevi, karakteri aşağıdaki özellikleri taşıyan yeni insanın doğuşunu sağlamak ve desteklemektir:
 
 - “Olabilmek” için “sahip olmak” kökenli tüm davranış biçimlerinden vazgeçmeye hazır olmak.
 - Güven duygusunun, benlik bilincinin ve kendine güvenin insanın kendi olgunluğu sonucu doğması gerekir. Doğaya ve insanlara, “sahip olmak” tutkusunun getirdiği kendini kılmak, her şeye hâkim olmak ve bunun sonucunda kendi mal ve mülkünün kölesi haline gelme eğilimlerinin dışında; ilgi, sevgi ve dayanışma ile bakmayı ve öyle davranmayı bilmek.
